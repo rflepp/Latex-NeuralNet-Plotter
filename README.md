@@ -1,4 +1,5 @@
 # U-Net Variation Architecture Visualization
+![SplitterUNet Architecture](splitternet.png)
 
 The following example shows the **SplitterUNet** architecture used in the paper:  
 [**Real-World Mobile Image Denoising Dataset with Efficient Baselines** (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Flepp_Real-World_Mobile_Image_Denoising_Dataset_with_Efficient_Baselines_CVPR_2024_paper.pdf)
